@@ -1,0 +1,30 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "\"RESTful todoListApi\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/Sumeet-Raina/todoListApi.git%22.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "\"Sumeet Raina\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sumeet-Raina/todoListApi.git%22/issues"
+  },
+  "homepage": "https://github.com/Sumeet-Raina/todoListApi.git%22#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
